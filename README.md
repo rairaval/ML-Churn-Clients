@@ -30,4 +30,8 @@ No supervisado: Ajusto un modelo en base unicamente a los datos de entrada. Ejem
 
 Por Esfuerzo: Basados en accion/recompensa. Ejemplo: Procesos Markov. 
 
+### Nota al pie 
+
 Para realizar este modelo utilice la herramienta herramienta "Jupyter" a través de "Notebooks", que permiten una fácil visualización y flexibilidad a la hora de hacer exploración de datos y modelos de manera ágil.
+
+Pueden descargarse el informe en formato PDF para que observen el trabajo final. 
