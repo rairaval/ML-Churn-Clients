@@ -32,7 +32,7 @@ Por Esfuerzo: Basados en accion/recompensa. Ejemplo: Procesos Markov.
 
 ## En este código:
 
-El modelo Churn hace referencia a: La tasa de cancelación o abandono habitualmente utilizado en el ámbito de clientes  (en inglés churn rate o attrition rate) en este ámbito es un término empresarial que hace referencia a la migración, rotación o cancelación de clientes. En otras palabras, desifrar del listado de nuestros clientes cuales son los mas propensos a abandonar la empresa y establecer medidas especificas para evitar que esto ocurra, por ejemplo: realizar ofertas o llamarles
+El modelo Churn hace referencia a: La tasa de cancelación o abandono habitualmente utilizado en el ámbito de clientes  (en inglés churn rate o attrition rate) en este ámbito es un término empresarial que hace referencia a la migración, rotación o cancelación de clientes. En otras palabras, desifrar del listado de nuestros clientes cuales son los mas propensos a abandonar la empresa y establecer medidas especificas para evitar que esto ocurra, por ejemplo: realizar ofertas o llamarles. El código esta desarrollado en python, utilice jubyter para su realización. 
 
 ### Nota al pie 
 
